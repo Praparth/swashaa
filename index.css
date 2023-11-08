@@ -1,0 +1,50 @@
+*{
+
+
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+   text-align: center;
+    color: #252525;
+}
+
+.count{
+    text-decoration: none;
+}
+
+.web-name{
+    font-size: xx-large;
+}
+
+
+/*-------------------------------------------- footer ---------------------------------------------*/
+.hr{
+    /* margin: 2% 5%; */
+    border: 0px solid #2525258a;
+    width: 100%;
+    background-color: aliceblue;
+}
+.copyright{
+    text-align: center;
+    margin: 2%;
+}
+
+#email{
+    border-top:0px ;
+    border-left:2px solid red ;
+    border-right: 0px;
+    border-bottom: 2px solid black; 
+}
+
+#email button{
+    background-color: aliceblue;
+}
+
+.copyright p{
+    margin: 1%;
+} 
+
